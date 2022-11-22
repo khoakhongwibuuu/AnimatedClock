@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
 
 * {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 }
 
 body {
@@ -40,7 +40,7 @@ body {
 	position: absolute;
 	width: 8px;
 	height: 8px;
-	border: 3px solid #fff;
+	border: 3px solid #ffffff75;
 	border-radius: 50%;
 	z-index: 1000;
 }
@@ -88,13 +88,9 @@ body {
 	width: 2px;
 }
 
-/* seconds */
-
 .circle:nth-child(2) i {
 	width: 4px;
 }
-
-/* hours */
 
 .circle2 {
 	width: 240px;
@@ -122,7 +118,6 @@ body {
 		0 0 60px var(--clr);
 }
 
-/* Digital  */
 #time {
 	height: 2.1em;
 	margin-bottom: 40px;
@@ -159,6 +154,6 @@ body {
 	}
 
 	50% {
-		opacity: 0;
+		opacity: 1;
 	}
 }
