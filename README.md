@@ -20,7 +20,7 @@ This is a simple web-based Digital clock.
 
 <!-- BUILT WITH -->
 ## Built With
-HTML5 + CSS3 + A few simple coding skills.
+HTML5 + CSS3 +  JS + A few simple coding skills.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
