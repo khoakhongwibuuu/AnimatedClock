@@ -4,11 +4,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <a href="https://toitenlakhoa.github.io/AnimatedClock/">View Demo</a>
+    <a href="https://khoakhongwibuuu.github.io/AnimatedClock/">View Demo</a>
     ·
-    <a href="https://github.com/ToiTenLaKhoa/AnimatedClock/issues">Report Bug</a>
+    <a href="https://github.com/khoakhongwibuuu/AnimatedClock/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ToiTenLaKhoa/AnimatedClock/pulls">Request Feature</a>
+    <a href="https://github.com/khoakhongwibuuu/AnimatedClock/pulls">Request Feature</a>
   </p>
 </div>
 
@@ -26,19 +26,19 @@ HTML5 + CSS3 +  JS + A few simple coding skills.
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Go to <a href="https://github.com/ToiTenLaKhoa/AnimatedClock/releases">Release Page</a> and download the latest version.
+Go to <a href="https://github.com/khoakhongwibuuu/AnimatedClock/releases">Release Page</a> and download the latest version.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CLONE -->
 ## Clone this project
 _Use the following command._
    ```sh
-   git clone https://github.com/ToiTenLaKhoa/AnimatedClock
+   git clone https://github.com/khoakhongwibuuu/AnimatedClock
    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-You can use this _[AnimatedClock](https://github.com/ToiTenLaKhoa/AnimatedClock)_ with _[Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)_ to make your Desktop look amazing.
+You can use this _[AnimatedClock](https://github.com/khoakhongwibuuu/AnimatedClock)_ with _[Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)_ to make your Desktop look amazing.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
